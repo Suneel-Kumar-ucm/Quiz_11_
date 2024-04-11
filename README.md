@@ -1,5 +1,12 @@
 # Quiz_11_
 
+video link:  https://drive.google.com/file/d/1byeF9WTFb59wlJ1z2qCQpoQjegJ1kGu-/view?usp=drive_link
+
+name : suneel kumar reddy
+
+id:sxk66390
+
+
 challenges encountered during model training and optimization:
 
 One common challenge during model training and optimization is finding the right balance between underfitting and overfitting. This involves tuning hyperparameters such as learning rate, batch size, number of LSTM layers, and dropout rate to achieve the best performance on both the training and validation sets.
